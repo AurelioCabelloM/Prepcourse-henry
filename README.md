@@ -1,2 +1,2 @@
 # Prepcourse-henry
-este para una prueba del modulo 2
+Aurelio Cabello, prueba de como crear un repositorio y clonarlo desde github a mi pc
